@@ -1,0 +1,21 @@
+# Node generated files
+node_modules
+./src
+tsconfig.json
+npm-debug.log
+rollup*
+# OS generated files
+Thumbs.db
+.DS_Store
+# Ignored files
+*.ts
+!*.d.ts
+#Visual Files
+bin
+obj
+Properties
+*.config
+*.csproj
+*.user
+
+gulpfile.js
