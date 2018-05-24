@@ -270,7 +270,7 @@ var GridStackModule = /** @class */ (function () {
     return GridStackModule;
 }());
 
-require("../vendor/gridstack.all.js");
+require("../../vendor/gridstack.all.js");
 
 exports.GridStackModule = GridStackModule;
 
